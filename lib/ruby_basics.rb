@@ -23,6 +23,6 @@ value="expert"
 end
 
 def pizza_party (pizza="cheese")
-puts cheese
-phrase=
+puts pizza
+phrase=pizza
 end
