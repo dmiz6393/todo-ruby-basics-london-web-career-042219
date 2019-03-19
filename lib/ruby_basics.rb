@@ -23,5 +23,5 @@ value="expert"
 end
 
 def pizza_party (pizza="cheese")
-puts pizza
+puts cheese
 end
