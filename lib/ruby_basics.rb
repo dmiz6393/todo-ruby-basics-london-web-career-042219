@@ -24,4 +24,5 @@ end
 
 def pizza_party (pizza="cheese")
 puts cheese
+phrase=
 end
