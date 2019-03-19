@@ -14,14 +14,14 @@ def greeting(greeting,name)
   "#{greeting}, #{name}"
 end
 
-def return_a_value(Nice)
-Nice
+def return_a_value
+
 end
 
-def last_evaluated_value(expert)
-expert
+def last_evaluated_value
+
 end
 
-def pizza_party(cheese)
-cheese
+def pizza_party
+
 end
