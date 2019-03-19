@@ -11,7 +11,7 @@ argument
 end
 
 def greeting(greeting,name)
-"Hi #{name}"
+"#{greeting} #{name}"
 end
 
 def return_a_value
